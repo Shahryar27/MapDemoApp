@@ -1,0 +1,6 @@
+first you need to put mak key constant file and androidmenifest.xml file
+
+then you need to install libraries then install pod
+
+then you can run ios build using npx react-native run-ios
+or android build using npx react-native run-android
